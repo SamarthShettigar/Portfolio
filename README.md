@@ -7,7 +7,7 @@ A modern, responsive personal portfolio website built using **HTML, CSS, and Jav
 Deployed Vercel link:
 
 ```text
-https://your-portfolio.vercel.app
+https://portfolio-samarthgs.vercel.app
 ```
 
 ## 🚀 Features
